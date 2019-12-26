@@ -1,5 +1,5 @@
 # 输出
-print('hello, world！！！')
+print('hello, world')
 
 
 
