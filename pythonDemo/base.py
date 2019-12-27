@@ -19,7 +19,7 @@ if True:
     print("True")
 else:
     print("Answer")
-    print("False")
+  print("False")
 
 # 多行语句
 item_one = 1
