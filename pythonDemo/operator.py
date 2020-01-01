@@ -202,3 +202,17 @@ if a is not c:
     print('a 和 c 没有共同标识')
 else:
     print('a 和 c 有共同标识')
+
+# is 和 == 区别
+a = [1, 2, 3]
+b = a
+
+print(b is a)
+print(b == a)
+
+b = a[:]
+
+print(b is a)
+print(b == a)
+
+
